@@ -17,7 +17,6 @@ if __name__ == '__main__':
             if item[j] > max:
                 max = item[j]
 
-
     while T:
         res = []
         for i in range(max, 0, -1):
